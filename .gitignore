@@ -1,3 +1,11 @@
 .ipynb_checkpoints/
 intro_graph.ipynb
 copy_me.ipynb
+TMP*
+tmp*
+fort*
+dataset_prep.log
+__pycache__
+wandb/
+graphs
+canonical_feat_graphs
